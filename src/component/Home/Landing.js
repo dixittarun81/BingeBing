@@ -1,10 +1,10 @@
 import React from 'react';
-import Navbar from './Layout/Navbar';
+import SearchForm from './SearchForm';
 
 export default function Landing() {
     return (
         <div>
-            <Navbar/>
+            <SearchForm/>
         </div>
     )
 }
